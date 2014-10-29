@@ -1,6 +1,14 @@
 # UVDial
 
-Uses SparkFun microView dial widget to display CPU usage
+Uses SparkFun MicroView dial widget to display CPU usage.  Arduino and
+
+MicroView widget for the display, and Python for the dekstop side.
+Edit uvdial.py directly to change the device to the correct serial
+device name.
+
+# Screenshot
+
+![uvdial CPU monitor screenshot with SparkFun MicroView](uvdial.jpg "uvdial CPU monitor screenshot with SparkFun MicroView")
 
 # Resources
 
